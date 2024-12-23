@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Screen Swapper
+Comment=Swap all windows between screens while preserving their states
+Icon=preferences-system-windows
+Type=Service
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginInfo-Author=Audacities
+X-KDE-PluginInfo-Email=contact@audacities.fr
+X-KDE-PluginInfo-Name=screenswapper
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPU
+X-KDE-PluginInfo-EnabledByDefault=true
